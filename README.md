@@ -3,8 +3,7 @@ My repository of assignments in a [_Computer Graphics course at MIT_](https://oc
 
 I compiled on an M-series Mac using X-code 
 
-Assignment one involved creating bezier and b-spline curves
-[assignment one instructions](A1/A1.pdf)
+Assignment one involved creating bezier and b-spline curves [assignment one instructions](A1/A1.pdf)
 
 ### A1:
 ![Core.swp](Images/A1_1.png)
