@@ -1,5 +1,5 @@
 # MIT_6.837
-My repository of assignments in a [Computer Graphics course at MIT] (https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/)
+My repository of assignments in a [_Computer Graphics course at MIT_](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/) 
 
 I compiled on an M-series Mac using X-code 
 
