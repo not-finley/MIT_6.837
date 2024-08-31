@@ -3,6 +3,8 @@ My repository of assignments in a [_Computer Graphics course at MIT_](https://oc
 
 I compiled on an M-series Mac using X-code 
 
+Assignment 1 involved creating 
+
 
 ### A1:
 ![Core.swp](Images/A1_1.png)
