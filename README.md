@@ -5,7 +5,8 @@ I compiled on an M-series Mac using X-code
 
 
 ### A1:
-![Normals](Images/A1_1)
+![Core.swp](Images/A1_1.png)
+![Wineglass.spw Curve](Images/A1_2.png)
 
 
 
