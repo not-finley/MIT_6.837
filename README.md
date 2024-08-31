@@ -1,5 +1,5 @@
 # MIT_6.837
-My repository of assignments in a Computer Graphics course at MIT
+My repository of assignments in a [Computer Graphics course at MIT] (https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/)
 
 I compiled on an M-series Mac using X-code 
 
@@ -13,6 +13,3 @@ I compiled on an M-series Mac using X-code
 ![Weird.spw surface](Images/A1_6.png)
 ![Weird.spw normals](Images/A1_7.png)
 
-
-
-https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/
